@@ -1,5 +1,6 @@
 # RT_GestureRecognition
 This demo was trained on The 20BN-jester Dataset V1 (https://20bn.com/datasets/jester/v1)
+![](demo.gif)
 
 # Getting the demo to work:
 
